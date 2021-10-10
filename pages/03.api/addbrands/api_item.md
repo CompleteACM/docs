@@ -3,7 +3,9 @@ title: AddBrand
 ---
 
 ! This API call is intended for internal use and VARs only, VARs will be required to contact us to activate this API endpoint.
-Add Brand
+
+### Purpose
+Add Brand eg. Organisation/Company
 
 ### Required Parameters
 * brand_name (string, 255)
